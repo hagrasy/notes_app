@@ -26,10 +26,10 @@ class NoteItem extends StatelessWidget {
             subtitle: Padding(
               padding: const EdgeInsets.only(top: 20, bottom: 24),
               child: Text(
-                "Build your career with AMITLAB",
+                "Build your career with AMIT, they have the most professional team ever.",
                 style: TextStyle(
                   color: Colors.black.withOpacity(.5),
-                  fontSize: 18,
+                  fontSize: 20,
                 ),
               ),
             ),

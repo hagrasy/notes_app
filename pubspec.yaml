@@ -11,6 +11,10 @@ dependencies:
   # path: ^1.8.0
   font_awesome_flutter: ^10.5.0
   stateless: ^0.1.1
+  flutter:
+   assets:  
+    - lib\assets\images\download.png
+ 
 
 dev_dependencies:
   lints: ^2.0.0
